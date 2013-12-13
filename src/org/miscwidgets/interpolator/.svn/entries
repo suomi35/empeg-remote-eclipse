@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2009-01-28T19:00:43.733542Z"
+   url="http://android-misc-widgets.googlecode.com/svn/trunk/android-misc-widgets/src/org/miscwidgets/interpolator"
+   last-author="pskink"
+   kind="dir"
+   uuid="c2cc73a0-ed3f-11dd-b90f-f9a5cbf66604"
+   repos="http://android-misc-widgets.googlecode.com/svn"
+   revision="17"/>
+<entry
+   committed-rev="3"
+   name="QuartInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="ad1d09e6c3a9d2b83a934c463914f695"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="SineInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="1aa2ad91cff0337d966b38ed3c3da30c"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CircInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="7cf499c91167294b8e893eb556a914e8"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="QuintInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="c68acfafe8d69af34b042f04b44983dd"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="BackInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="ed4267eafd75d59c880b0e872467417c"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ElasticInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="5faada6b2a395b220f134eae84874630"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CubicInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="fc42e8ebe9d714603aafface822b6234"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="EasingType.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="efdd43a02c27bd7b92dc5b861f1b101f"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="QuadInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="e11e3aa07ad7715892f20c964c3f197b"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ExpoInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="3263c34993389b2b98d959aec592258b"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+<entry
+   committed-rev="3"
+   name="BounceInterpolator.java"
+   text-time="2010-11-23T10:47:40.000000Z"
+   committed-date="2009-01-28T19:00:43.733542Z"
+   checksum="dedf052e006adf0bbde859d85e433486"
+   last-author="pskink"
+   kind="file"
+   prop-time="2010-11-23T10:47:40.000000Z"/>
+</wc-entries>
