@@ -1,4 +1,4 @@
-empeg-remote
+empeg-remote-eclipse
 ============
 
 Releasing the source since I no longer have time to work on it.
