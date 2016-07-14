@@ -1,6 +1,8 @@
 empeg-remote-eclipse
 ============
 
+NOTE: This code has been ported to Android Studio : [empeg-remote]https://github.com/suomi35/empeg-remote) (https://github.com/suomi35/empeg-remote-eclipse/blob/master/happy_dance.gif "W00t!")
+
 Releasing the source since I no longer have time to work on it.
 
 There is a precompiled version available on Google Play (https://play.google.com/store/apps/details?id=com.chasinglemons.empeg)
