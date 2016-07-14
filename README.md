@@ -1,7 +1,7 @@
 empeg-remote-eclipse
 ============
 
-NOTE: This code has been ported to Android Studio : [empeg-remote]https://github.com/suomi35/empeg-remote) (https://github.com/suomi35/empeg-remote-eclipse/blob/master/happy_dance.gif "W00t!")
+NOTE: This code has been ported to Android Studio : [empeg-remote]https://github.com/suomi35/empeg-remote) ![alt text](https://github.com/suomi35/empeg-remote-eclipse/blob/master/happy_dance.gif "W00t!")
 
 Releasing the source since I no longer have time to work on it.
 
